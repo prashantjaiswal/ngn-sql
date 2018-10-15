@@ -1,0 +1,23 @@
+{
+  "name": "ngn-sql",
+  "version": "1.0.0",
+  "description": "my sql adapter for nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prashantjaiswal/ngn-sql.git"
+  },
+  "author": "NextGn <prashant@nextgn.net> (http://www.nextgn.net/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prashantjaiswal/ngn-sql/issues"
+  },
+  "homepage": "https://github.com/prashantjaiswal/ngn-sql#readme",
+  "dependencies": {
+    "mysql": "2.15.0",
+    "rxjs": "5.5.6"
+  }
+}
